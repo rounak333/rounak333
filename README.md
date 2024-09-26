@@ -1,4 +1,4 @@
-👋 Hi, I’m @rounak333
+👋 Hi, I’m Rounak
 
 - 👀 I’m interested in front-end development, UI/UX design, and building interactive web applications.
 - 🌱 I’m currently learning React.js, Tailwind CSS, and enhancing my skills in 3D animations for web development.
