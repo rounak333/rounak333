@@ -22,6 +22,10 @@
 
 - 📫 How to reach me **rounak.choubey33@gmail.com**
 
+- 👯 I’m looking to collaborate on: Open-source projects related to Web Development
+
+- 👀 I’m interested in: Web Development, Blockchain, and DSA
+
 - 🛠️ My skills include: Building responsive websites using React.js, Bootstrap, and Tailwind CSS
 
 - 🌟 Goals for 2024: To contribute to at least 5 open-source projects and enhance my full-stack development skills
