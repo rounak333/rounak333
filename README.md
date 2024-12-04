@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **react three fiber,django,threejs**
 
-- 💬 Ask me about **js, react**
+- 💬 Ask me about **js, react, python**
 
 - 📫 How to reach me **rounak.choubey33@gmail.com**
 
